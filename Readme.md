@@ -1,6 +1,6 @@
 # Bollywood Bias Buster
 
-![Bias Bar Graph](Bais%20Reports/Bias%20bar%20Graph.png)
+[![Bias Bar Graph](Bais%20Reports/Bias%20bar%20Graph.png)](https://github.com/H-lamba/-Bollywood-Bias-Buster-Application/blob/main/Bias_report/Bias%20bar%20Graph.png)
 
 _Bollywood Bias Buster_ is an AI-powered application that analyzes Bollywood movie posters and plot synopses to detect, quantify, and remediate gender bias using a combination of multimodal AI models and NLP techniques.
 
