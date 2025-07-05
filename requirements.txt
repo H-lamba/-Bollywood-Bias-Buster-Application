@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+spacy
+Pillow
+google-generativeai
+reportlab
+
