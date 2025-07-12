@@ -1,8 +1,5 @@
 # Bollywood Bias Buster
 
-![image](https://github.com/user-attachments/assets/6da0f00b-8945-47e0-a50d-ae43e264cdfb)
-
-
 _Bollywood Bias Buster_ is an AI-powered application that analyzes Bollywood movie posters and plot synopses to detect, quantify, and remediate gender bias using a combination of multimodal AI models and NLP techniques.
 
 ---
@@ -71,22 +68,13 @@ To ensure reliability and interpretability:
 ## 📂 Project Structure
 
 ```
-├── Bais Reports/
-│   └── Bias bar Graph.png
-│   └── 13B_bias_report.pdf
-│   └── 100 days_bias_report(3).pdf
+
 ├── Bollywood-bias-analyze/
-│   ├── Notebook Practical/
-│   │   └── Implementation.ipynb
+│   ├── Notebook Practical 2/
+│   │   └── text(1).ipynb
+|   │   └── poster and trailers.ipynb.ipynb
+|   │   └── wiki.ipynb
 ├── README.md
-└── Python Files 
-    └── bias_aggregation.py
-    └── data_processing.py
-    └── remediation.py
-    └── run.py
-    └── text_bias_analysis.py
-    └── utils.py
-    └── visual_bias_analysis.py
 ```
 
 ---
