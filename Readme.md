@@ -81,4 +81,4 @@ To ensure reliability and interpretability:
 
 ## 📖 More Information
 
-For full implementation details, see the [[Implementation Notebook](Notebook%20Practical/Implementation.ipynb).](https://github.com/H-lamba/-Bollywood-Bias-Buster-Application/tree/main/NoteBook%20Practical%202)
+For full implementation details, see the [Implementation]([url](https://github.com/H-lamba/-Bollywood-Bias-Buster-Application/tree/main/NoteBook%20Practical%202))
